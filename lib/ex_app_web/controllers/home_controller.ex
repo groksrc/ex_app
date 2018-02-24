@@ -1,4 +1,4 @@
-defmodule ExAppWeb.PageController do
+defmodule ExAppWeb.HomeController do
   use ExAppWeb, :controller
 
   def index(conn, _params) do
